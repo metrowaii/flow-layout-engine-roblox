@@ -1,0 +1,10 @@
+# Project place file
+/flow-layout-engine-roblox.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+Packages
+
+sourcemap.json

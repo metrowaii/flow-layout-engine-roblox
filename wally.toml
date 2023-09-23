@@ -1,0 +1,8 @@
+[package]
+name = "metrowaii/flow-layout-engine-roblox"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Flow = "grilme99/flow@1.0.0"
